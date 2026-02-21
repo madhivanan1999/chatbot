@@ -1,0 +1,11 @@
+faiss-cpu
+requests
+numpy
+pandas
+beautifulsoup4
+python-docx
+sentence-transformers
+langchain
+langchain-community
+groq
+python-dotenv
